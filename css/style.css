@@ -38,7 +38,7 @@
 .home-heading2{
     position: absolute;
     left:50%;
-    top:35%;
+    top:40%;
     transform: translate(-50%,-50%);
     width:fit-content;
     font-size: 18px;
@@ -117,7 +117,7 @@
 /* team memeber*/
 #team {
     background: rgb(207, 214, 204);
-    height: 100vh;
+    height: 100%;
 }
 #person{
     width:200px;
